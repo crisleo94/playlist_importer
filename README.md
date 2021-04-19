@@ -8,8 +8,8 @@ Change the implementation to a `Flask` API in order to consume it from a fronten
 - [ ] Create Spotify Application
 - [ ] Create Application in google developers console
 - [ ] Create .env file to store the client and client secret ID's
-- [ ] Use `python-dotenv` to get the ID's from the .env file
-- [ ] Use `requests` to start making the requests to the provided endpoint by spotify and youtube music
+- [ ] Use python-dotenv to get the ID's from the .env file
+- [ ] Use requests to start making the requests to the provided endpoint by spotify and youtube music
 - [ ] Obtain a list with the playlists from Spotify/Youtube
 - [ ] Create Spotify Class with the needed methods
 - [ ] Create Youtube Class with the needed methods
